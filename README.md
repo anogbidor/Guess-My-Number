@@ -1,1 +1,1 @@
-https://anogbidor.github.io/Guess-my-number-new/
+https://anogbidor.github.io/Guess-my-number/
