@@ -69,7 +69,7 @@ checkButton.addEventListener('click', function () {
       highScoreSpan.textContent = highscore;
     }
     correctNumber = updateCorrectNumber();
-    console.log(correctNumber);
+    
   } else if (guessedNumber < correctNumber) {
     message.textContent = 'Too low!';
     score -= 1; // Decrement the score when guess is lower than correct score
